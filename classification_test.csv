@@ -1,0 +1,601 @@
+transformed_input_for_classification,sarcasm
+"Speaker HOWARD: Why not ""World's Greatest Engineer""? 
+Speaker SHELDON: I'm sorry.
+I typed that into the label maker, but I just couldn't press enter. Now down to business. 
+Speaker SHELDON: What would it take for you to abandon Leonard and join me in a rival company 
+Speaker SHELDON: Unless, of course, the mugs are sufficient, in which case, welcome aboard. 
+Speaker HOWARD: We're not quitting on Leonard. 
+Speaker SHELDON: I understand. Your loyalty is admirable. But what if I were to up the ante?",False
+"Speaker ROSS: That only is not funny, it's physically impossible! Okay? Depending    on the species I'd have to have a six foot long... 
+Speaker ROSS: It's not funny!",False
+"Speaker JOEY: When I had insurance I could get hit by a bus or catch on fire, it wouldn't matter. Now I got to be careful? 
+Speaker CHANDLER: I'm sorry man there is never a good time to have to .. Stop catching on fire.",True
+"Speaker ROSS: Oh. 
+Speaker PHOEBE: Please, right now, no, every time I see him it's like  'Is it on the lose?'  'Is it watching me?' 
+Speaker CHANDLER: We can't tell him, you can't go up to a guy you barely know and talk about his.... stuff. 
+Speaker ROSS: He's right, even if it's to say something complementary.",False
+"Speaker SHELDON: See, I've got, uh, my tea is at the perfect sipping temperature. 
+Speaker SHELDON: Uh, I have fleece-lined boxer shorts to keep my tushie toasty. 
+Speaker SHELDON: And then, oh, last but not least, this inspirational cat poster, improved with the reassuring face of physics renegade Richard Feynman. 
+Speaker PENNY: Is that why you had to take him to Office Depot last night?",False
+"Speaker PERSON: I knew it, wow!! 
+Speaker PHOEBE: Wait-wait-wait, wait! Puppies. Cute or ugly? 
+Speaker PERSON: Ohh, so cute. 
+Speaker PHOEBE: Uh-huh, well! But umm, still I'm-I'm mad at you.",False
+"Speaker LEONARD: When are you going to stop making Cylon toast? 
+Speaker SHELDON: When I have enough to destroy all the human toast on the Battlestar known as Galactica.",True
+"Speaker LEONARD: Let me ask you something. 
+Speaker LEONARD: Do you think it's okay for Penny to have an ex-boyfriend sleep on her couch? 
+Speaker HOWARD: No, I mean, she's obviously way out of line. 
+Speaker LEONARD: Thank you! 
+Speaker HOWARD: But if she dumps you, she'll have a new boyfriend by tomorrow morning and you'll have a new girlfriend when you figure out how to build one.",True
+"Speaker PERSON: Okay, okay look, I know I'm being Mr. Inappropriate today, but it's just so tough, I mean see you walking around and I just wanna touch you and hold you, come on no one's around, just, just kiss me. 
+Speaker ROSS: All right that's, that's it!! Get off her! 
+Speaker PERSON: What is going on? 
+Speaker ROSS: What's going on?!  That's what's going on!!",False
+"Speaker ROSS: Whoa Let me start by uh, by introducing myself, I am Professor Geller. 
+Speaker ROSS: So to sum up, I'm Professor Geller.",False
+"Speaker SHELDON: My new computer came with Windows 7. 
+Speaker SHELDON: Windows 7 is much more use r- friendly than Windows Vista. 
+Speaker SHELDON: I don't like that. 
+Speaker LEONARD: Don't you think looking for a new city to live in is a bit of an overreaction?",False
+"Speaker SHELDON: There it is again.
+Do you kiss your mother with that mouth? 
+Speaker SHELDON: Oh, well, I'm sorry for your loss.
+- Oh! - Good night, sir. 
+Speaker SHELDON: Unbelievable.
+He says Wolowitz deserves my spot because he's a high-profile asset to the university. 
+Speaker LEONARD: Well, he's not wrong.
+Howard did go to the International Space Station. 
+Speaker SHELDON: Yeah, that was five weeks ago. How much longer is he gonna milk that cow?",False
+"Speaker RACHEL: Y'know what, actually ..   Okay, okay, okay, what's so funny over here? 
+Speaker PERSON: I thought you didn't smoke. 
+Speaker RACHEL: Oh, I thought you guys meant marijuana cigarettes, y'know? 
+Speaker RACHEL: Y'know what I mean, like dubbies?",False
+"Speaker PHOEBE: Rachel is one of my closest friends. Although, being the only one who knows anything about this does makes me feel special. Okay! 
+Speaker RACHEL: Okay, stop-stop! Phoebe?! 
+Speaker PHOEBE: Hey Rach! 
+Speaker RACHEL: What was that?!",False
+"Speaker LEONARD: Okay. Well, then it's settled: small indoor church wedding, black-tie, no butterflies. 
+Speaker PENNY: Sounds perfect. Great. 
+Speaker SHELDON: You still didn't pick a date. 
+Speaker PENNY: Stay out of it! Shut up! 
+Speaker RAJ: Oh, yes, we've got the moon and the trees and... Elizabeth McNulty, who apparently died when she was the same age I am.",False
+"Speaker MODERATOR: Well we have a new member of Sarcasmoholics Anonymous this week 
+Speaker MODERATOR: Perhaps you would like to introduce yourself? 
+Speaker SCOTT: Hi everybody, my name is Scott and I am a sarcasmholic. 
+Speaker MEMBER-GIRL: Nooo",True
+"Speaker LEONARD: You never told me what happened between you and Bernadette. 
+Speaker HOWARD: I did a stupid thing. 
+Speaker LEONARD: Yeah, I guessed that. 
+Speaker HOWARD: It was the kind of thing that makes it kind of hard to face her now.",False
+"Speaker JOEY: Uhh, the ball thing. 
+Speaker ROSS: Yeah? 
+Speaker JOEY: Hey Ross, wouldn't it be great if we could go two straight hours without dropping it?! 
+Speaker ROSS: Yeah it would!",False
+"Speaker SHELDON: That lecture was a waste of time. 
+Speaker SHELDON: I made more accurate diagrams of the expansion of the early universe on the nursery wall with the contents of my diaper. 
+Speaker AMY: Are you getting sick? 
+Speaker SHELDON: No, I'm just allergic to people who get Nobel Prizes for no good reason.",True
+"Speaker PERSON: Well, I'm sure that, uh, you...
+have a lot of questions. 
+Speaker SHELDON: Who was he? 
+Speaker PERSON: His name is Ron.
+I met him at my prayer group. 
+Speaker SHELDON: How long have you been involved with him? 
+Speaker PERSON: A few months. 
+Speaker SHELDON: And of those few months, how long have you been a demented sex pervert?",False
+"Speaker JOEY: You said, you wanna come in for some lemonade? 
+Speaker MONICA: So?! 
+Speaker JOEY: Whoa, ah!! We're you just gonna give me some lemonade? 
+Speaker MONICA: Yeah huh!! 
+Speaker MONICA: Cover yourself up!",False
+"Speaker HOWARD: he used to... take me to the comic book store. 
+Speaker HOWARD: It was one of the few things we did together. 
+Speaker BERNADETTE: Oh. Howie, I had no idea. 
+Speaker HOWARD: Well, I don't... like to talk about it. 
+Speaker BERNADETTE: Oh, baby. 
+That story's made up, isn't it? 
+Speaker HOWARD: That's how much buying a comic book store means to me.",False
+"Speaker ROSS: According to Chandler, what phenomenon scares the bejesus out of him? 
+Speaker MONICA: Michael flatly lord of the dance 
+Speaker ROSS: That is correct! 
+Speaker JOEY: The Irish gig guy? 
+Speaker CHANDLER: His legs flail about as if independent from his body",False
+"Speaker HOWARD: Wow, so you guys are like buds now? 
+Speaker RAJ: Oh, yeah, we hang out all the time. 
+Speaker PERSON: Plus, he doesn't have a girlfriend, I don't have a girlfriend. 
+Speaker RAJ: It's like we both had these holes in our lives, but now we fill each other's holes. 
+Speaker PERSON: that sounds a little funny to an American ear.",False
+"Speaker CHANDLER: What am I gonna do now? 
+Speaker RACHEL: Just pass the tape along. 
+Speaker CHANDLER: Hes not right for the part, and if I suggest him my bosses are going to think I am an idiot. And thatÕs something they should learn on their own.",True
+"Speaker BERNADETTE: Are you guys doing okay? 
+Speaker HOWARD: Leonard and I are fine, but I think Raj needs to meet a girl really soon. 
+Speaker BERNADETTE: Well, that shouldn't be too hard. He's such a cutie. 
+Speaker RAJ: Thank you, but ""cute"" is for bunnies. I want to be something with sex appeal, like... like a labradoodle.
+Labradoodle? 
+Speaker LEONARD: We might be starting to zero in on your problem.",True
+"Speaker DOROTHY: Now PERSON is depressed Rose. 
+Speaker ROSE: Do you think she is depressed about Rebecca 
+Speaker DOROTHY: No Rose, she is depressed because Marvel had manners on only once a week",True
+"Speaker HOWARD: I promised my mother. 
+Speaker RAJ: I suppose you could have your android penis circumcised. 
+Speaker RAJ: But that's something your rabbi would have to discuss with the manufacturer. 
+Speaker SHELDON: Not to mention you'd have to power down on saturdays. 
+Speaker LEONARD: Sheldon, why is this letter in the trash? 
+Speaker SHELDON: Well, there's always the possibility that a trash can spontaneously formed around the letter but Occam's rasor would suggest that someone threw it out.",True
+"Speaker CHANDLER: What an interesting approach to guitar instruction. 
+Speaker CHANDLER: You know some might find it amusing, I myself find it regular.",True
+"Speaker ROSS: Okay, I can't imagine, I can't imagine my life without you. Without, without these arms, and your face, and this heart. Your good heart Rach, and, and.... 
+Speaker RACHEL: No.",False
+"Speaker LEONARD: Right. 
+Speaker AMY: That's not true of all bars. Juice bars, for example. 
+Speaker SHELDON: Oh! Good point, Amy.
+Yeah, building on your premise, Leonard could frequent sushi bars, salad bars, oyster bars, the Apple Genius Bar... What are you doing? 
+Speaker LEONARD: Keep going. I'm listening. 
+Speaker AMY: That was rude. 
+Speaker SHELDON: He does it all the time. He's a cornucopia of social awkwardness.",False
+"Speaker RACHEL: Hey Chandler? Monica just broke my sea-shell lamp. 
+Speaker CHANDLER: Me? I am gonna die alone!",True
+"Speaker SHELDON: It's probably a euphemism for urination. 
+Speaker PENNY: Sheldon, what is wrong with you? 
+Speaker SHELDON: Not much. Although, I can be faulted for being overly fond of koala bears. 
+Speaker SHELDON: I don't know what it is, when they smart munching on eucalyptus, I just melt inside. 
+Speaker PENNY: Okay, Amy just told you some exciting news, and you acted like it was no big deal. 
+Speaker SHELDON: Oh, I see why you're confused. No, her news sounded important, but what you're forgetting is, it was an achievement in the field of biology. That's all about yucky, squishy things.",True
+"Speaker PERSON: We've got uh, scarves, tulip post cards... 
+Speaker JOEY: Check this out? Huh?  Yeah. That's the stuff. What do you think? 
+Speaker CHANDLER: Well, I don't have to buy that, ""I'm with stupid"" T-shirt anymore. 
+Speaker JOEY: Well, I like it. Here you go.",False
+"Speaker PERSON: What? 
+Speaker MONICA: Y'know, so I don't read as many important books as you do, and I don't write trick poems that seem to be about one thing but are actually about something else. And y'know what, I get excited about stupid stuff, like when I my 
+Speaker PERSON: Whoa, whoa, whoa.",False
+"Speaker BERNADETTE: Can you please just let it go? 
+Speaker SHELDON: Oh, I can help you with that. 
+Speaker SHELDON: Imagine you're holding an ordinary pen. 
+Speaker SHELDON: While your favorite pen is safe and secure in your pocket. 
+Speaker HOWARD: Hold that thought. 
+Speaker HOWARD: Hello? 
+Speaker AMY: How can I make this up to you? 
+Speaker PENNY: The answer's in this puzzle box. Let's see if you can open it.",True
+"Speaker PENNY: Well, if I do well in sales, I could end up making a lot more money than you. 
+Speaker LEONARD: Not a problem. I grew up with a mother who emasculated my father financially and in every other aspect of his life, so... 
+Speaker LEONARD: ...really, it's what I think love looks like. 
+Speaker BERNADETTE: I'll be right back. I'm gonna go check on him. 
+Speaker PENNY: Maybe it's a good thing we came here. It's like a lesson in what not to do.",True
+"Speaker SHELDON: And here's where we are. The runts in a large litter.
+unlikely to ever reach the nourishing teats of Indiana Jones. 
+Speaker LEONARD: So I guess it's a good thing we stopped for dinner. 
+Speaker RAJ: You know, guys, when facing disappointment, Eat, Pray, Love  teaches us 
+Speaker HOWARD: Oh, shut up. 
+Speaker AMY: ...so anyway, to make a long story short, turns out I have an unusually firm cervix.",False
+"Speaker PHOEBE: Hi! 
+Speaker JOEY: Hey! 
+Speaker JOEY: Uh, Pheebs, about your mom... 
+Speaker PHOEBE: Yeah?",False
+"Speaker BERNADETTE: You heard what he said about his parents. 
+It was the little things they kept bottled up. 
+I don't want that to happen to us. 
+Speaker HOWARD: How can I convince you it won't? 
+Speaker BERNADETTE: Well, is there anything about me you're keeping inside? 
+Speaker HOWARD: I'm not answering that. 
+It's a trap. 
+Speaker BERNADETTE: So there<i> are</i> things you don't like. 
+Speaker HOWARD: And here I am in the trap. You just keep talking. I'm gonna chew my leg off.",True
+"Speaker BLANCHE: Still worried about the money you owe the government? 
+Speaker DOROTHY: I'm worried about whether Michael Jackson will be able to buy the remains of the elephant man.",True
+"Speaker BLANCHE: Oh Dorothy would please open this jar of nuts for me? 
+Speaker DOROTHY: You couldn't get it open? 
+Speaker BLANCHE: Oh I didn't try. I don't wanna risk cracking a nail. 
+Speaker DOROTHY: What are these? Claws?",True
+"Speaker PERSON: What are you seeing? 
+Speaker BLANCHE: Nightmare on Elm Street 4 
+Speaker ROSE: Do you have to see 1, 2 and 3 to appreciate it? 
+Speaker DOROTHY: No Rose, it stands alone.",True
+"Speaker PERSON: That's funny. Who are they? 
+Speaker ROSS: The blond woman is my ex-wife, and the woman touching her is her... close, personal friend. 
+Speaker PERSON: You mean they're lovers. 
+Speaker ROSS: If you wanna put a label on it.",True
+"Speaker JOEY: I don't know. But hey, I know we can decide. Okay, I'm gonna ask you questions and you answer real quick. 
+Speaker JOEY: Okay?",False
+"Speaker DOROTHY: Supposed to study for my French final with a fourteen year old in the house, its hard enough with an eighty year old. 
+Speaker SOPHIA: Are you referring to me? 
+Speaker DOROTHY: Ofcourse no Ma, I am referring to Carrey Grant, he is living in the broom closet.",True
+"Speaker RAJ: It's true-- you're both gorgeous. 
+Speaker RAJ: Kind of says something about the man who could bed you both. 
+Speaker RAJ: You get why I've been alone most of my adult life. 
+Speaker PERSON: So, what brings you by? Well, 
+Speaker HOWARD: I don't need a reason-- it's my house.",False
+"Speaker AMY: the organism responsible for Michelob Lite. 
+Speaker AMY: Is there something wrong with your neck? 
+Speaker SHELDON: It's a little stiff. 
+Speaker SHELDON: What a remarkably fragile structure to support such a valuable payload. 
+Speaker SHELDON: Not unlike balancing a Faberge egg on a Pixie Stick. 
+Speaker AMY: Have you considered massage? 
+Speaker SHELDON: I'd like to respond to that sarcastically: Yes, I relish the thought of a stranger covering my body with oil and rubbing it.",True
+"Speaker ROSS: Okay? 
+Speaker CHANDLER: Hi Emma, it's the year 2020. 
+Speaker CHANDLER: Are you still enjoying your nap?",True
+"Speaker SCOTT: [nodding] - Was that sarcasm? 
+Speaker MODERATOR: Noo..",True
+"Speaker DOROTHY: ma I think you should sit down 
+Speaker ROSE: Dorothy, should I get Sophia a glass of water? 
+Speaker DOROTHY: Rose, you should sit here and watch her hack herself to death",True
+"Speaker SHELDON: the paper was rejected, but recently, he was proven right. 
+Speaker SHELDON: And now he's on the fast track to win a Nobel prize. 
+Speaker PENNY: Yeah, that's basically what I said. 
+Speaker SHELDON: The point is Higgs is being celebrated for work he did 50 years ago, so that got me thinking, 
+Speaker SHELDON: perhaps I've already hit upon the idea that will win me my Nobel prize. 
+Speaker LEONARD: I didn't know they gave Nobel prizes for making boom-boom in the potty.",True
+"Speaker MONICA: You owe me 20 bucks. 
+Speaker RACHEL: Thank you. Thank you so much! 
+Speaker MONICA: Chandler, here you go, got your traditional Thanksgiving feast, you got your tomato soup, your grilled cheese fixin's, and your family size bag of Funyuns. 
+Speaker RACHEL: Wait, wait, Chandler, this is what you're havin' for Thanksgiving dinner?",False
+"Speaker DOROTHY: Your kidney? 
+Speaker BLANCHE: My kidney. 
+Speaker ROSE: Why would she need a kidney? 
+Speaker DOROTHY: To feed the cat Rose.",True
+"Speaker HOWARD: This thing has to hold up against a hearty potato-based diet. 
+Speaker LEONARD: I feel terrible 
+Speaker HOWARD: Maybe if you were helping, you'd feel better about yourself. 
+Speaker LEONARD: I deliberately tried to sabotage Stuart's date with Penny. 
+Speaker RAJ: Of course you feel terrible. You completely screwed up your karma. 
+Speaker SHELDON: You don't really believe in that superstition, do you?",False
+"Speaker JOEY: I didn't know he could get me fired! What am I going to do? 
+Speaker MONICA: Well y'know Joey, you're a pretty charming guy. 
+Speaker JOEY: Thanks, but I kinda have a problem to deal with here.",False
+"Speaker LEONARD: Yup, oh... here you go. 
+Speaker SHELDON: Oh, thank you. 
+Speaker SHELDON: Here, get yourself an eraser for your troubles. 
+Speaker LEONARD: Oh-ho.
+I forgot about this. 
+My aunt made it for me when I started college. 
+Speaker PENNY: Aw, did she hate you? 
+Speaker LEONARD: Why? Because I got an ugly, itchy sweater, and my brother got a car? No, I was her favorite.",True
+"Speaker PHOEBE: And she was like ""Oh, don't worry! I asked him. He's totally ok with seeing you!"". 
+Speaker PHOEBE: So now I have to go so he'll think that I'm totally ok with seeing him!",True
+"Speaker PERSON: Well, the biggest news is still you dumping Barry at the altar! 
+Speaker PERSON: Alright. Let's talk reality for a second. 
+Speaker RACHEL: Okay. 
+Speaker PERSON: When are you coming home?",False
+"Speaker LEONARD: Hey. 
+Speaker PENNY: Hey. 
+Speaker LEONARD: A little mood lighting, huh? 
+Speaker PENNY: When I didn't pay my bill, the Department of Water and Power thought I would enjoy the ambience.",True
+"Speaker SHELDON: Or maybe she just doesn't want to talk. 
+Speaker RAJ: Look, I found an iPod! 
+Speaker HOWARD: It's smashed beyond repair. What are you gonna do with it? 
+Speaker RAJ: What else? Sell it on eBay as ""slightly used.""",False
+"Speaker RACHEL: We're not gonna do that. 
+Speaker PERSON1: Well, if you like you can feel Rachel's and then feel mine to compare. 
+Speaker PERSON2: Am I interrupting? 
+Speaker ROSS: Uh yes! Thank you.",True
+"Speaker SHELDON: Who touched my… 
+Speaker HOWARD: Penny! Penny did it. 
+Speaker SHELDON: Why would you do that? 
+Speaker PENNY: I don't know. I was hungry?
+What's the big deal? 
+Speaker SHELDON: The big deal is that nobody touches food on my plate.",False
+"Speaker PENNY: Hey Sheldon. 
+Speaker SHELDON: Hello Penny. 
+Speaker PENNY: Get anything good? 
+Speaker SHELDON: Just the latest copy of Applied Particle Physics quarterly.",True
+"Speaker PERSON: It's Jake. 
+Speaker JOEY: Joey. Hey Jake, do you like the Knicks? 
+Speaker PERSON: Yeah, big fan. 
+Speaker JOEY: Me too! There's a game on Tuesday, do you wanna go?",False
+"Speaker PERSON: Oh, I must've said that after you left. 
+Speaker RACHEL: Said what? Exactly. 
+Speaker PERSON: That you enjoyed the occasional drink .. ing binge. 
+Speaker RACHEL: Oh my God!! Ohh, that is it! I'm leaving! You are just a horrible person!",False
+"Speaker SHELDON: I don't believe it matters what the topic is. 
+Speaker SHELDON: What's crucial for a salon is that we conduct the discussion in an elevated and insightful way. 
+It's all about the execution. 
+Speaker LEONARD: Of course you'd focus on that rather than the inspiration. 
+Speaker LEONARD: Uh, new salon topic.
+What's more important, an idea or its execution? 
+Speaker BERNADETTE: Oh, that's fun. 
+Speaker SHELDON: Yeah, good for you, Leonard. That's a lovely little notion. Kind of like, I wish I could talk to my uncle in Chicago. Yeah, now stand back while I invent the telephone. Hello? Oh, hold on. Leonard, it's your uncle. He says you just got burned.",True
+"Speaker PERSON: Rajesh!
+You up?
+You ready for breakfast? 
+Speaker RAJ: Oh, boy. Breakfast. 
+Speaker HOWARD: Okay, Raj, listen to me.
+You need to get out of there. 
+Speaker RAJ: But I have a cream sherry hangover and I smell blintzes. 
+Speaker HOWARD: If you don't leave now, she'll use food and guilt to keep you there for the rest of your life. 
+Speaker RAJ: Oh, Howard, stop. 
+Speaker HOWARD: Trust me, you're not Jewish. That's how they get you.",False
+"Speaker PHOEBE: And! And! 
+Speaker RACHEL: Ah! 
+Speaker CHANDLER: Hey, my father's house does that.",False
+"Speaker PHOEBE: Okay, I can do that! Oh, by the way, 
+Speaker PERSON: I Why don't we do a trial run. 
+Speaker PHOEBE: Oh okay. Umm, all right.  Hi, this is Phoebe from Empire Office Supplies, can I speak to your supply manager please? 
+Speaker PERSON: I'm the supply manager.",False
+"Speaker DOROTHY: Sorry I snapped at your Rose. It's just that I am upset, I am very upset. 
+Speaker ROSE: Is it because you threw Michael out? 
+Speaker DOROTHY: No, its because I cannot make any sense of those commercials for obsession.",True
+"Speaker DOROTHY: Its Miami in June, only cats are wearing fur! 
+Speaker ROSE: You going out? 
+Speaker DOROTHY: No, she is going to sit here where itÕs a 112 degrees and eat enchiladas.",True
+"Speaker CHANDLER: I do! Want a hint? huh? ""I do""  ""I do"". 
+Speaker MONICA: Ok, I'm sensing that this is some kind of word play, because you are pink with barely controlled glee. 
+Speaker CHANDLER: David is going to propose to Phoebe. 
+Speaker MONICA: What?  Why?",False
+"Speaker ROSS: Ok it was just me and her at the back of the train and I sat at the door so she had to pass by me if she like to switch cars. She was totally at my mercy. 
+Speaker CHANDLER: Were you so late because you were burying this woman?",True
+"Speaker ROSS: Man, I sure miss Julie 
+Speaker CHANDLER: Spanish midgets wrestling Julie! Okay yes I see how they got there.",True
+"Speaker SCOTT: It was quite hard .. Was just being sarcastic! 
+Speaker MODERATOR: Nooo!",True
+"Speaker SHELDON: I may have failed. 
+Speaker HOWARD: Okay, I guess we just go without a Wonder Woman. 
+Speaker PERSON: I don't want to go without Penny. 
+Speaker RAJ: Oh, great. No Superman, no Wonder Woman? All we've got is a skinny Flash, an Indian Aquaman, a nearsighted Green Lantern, and a teeny, tiny Dark Knight. 
+Speaker SHELDON: Obviously, we're no longer a Justice League. We have no choice but to switch to our Muppet Baby costumes.",False
+"Speaker SHELDON: consider changing disciplines.
+Yeah, to the humanities-- perhaps history. 
+Speaker SHELDON: One of the advantages of teaching history is that you don't have to create things. 
+Speaker SHELDON: You know, you just have to remember stuff that happened and then parrot it back. 
+Speaker SHELDON: You could have fun with that. 
+Speaker LEONARD: Yeah, that's not it. 
+Speaker LEONARD: Stuart's kind of interested in Amy. 
+Speaker SHELDON: Oh, of course he is. She's very interesting. Did you know, when she was 14, she severed the webbing between her own toes?",True
+"Speaker CHANDLER: Wish I could switch with someone. 
+Speaker CHANDLER: I really don't wanna sit with Allen Iverson over there .",False
+"Speaker RAJ: Oh, look at you.
+You, you look like you grew. 
+Speaker HOWARD: Yeah.
+The lack of gravity did decompress my spine, so I'm like an inch and a half taller. 
+Speaker HOWARD: I'm going to the DMV tomorrow to get my license changed before I shrink back. 
+Speaker RAJ: Oh, uh, come in, come in. 
+Speaker RAJ: Oh, I, uh, I didn't think I was going to get to see you until tomorrow. 
+Speaker HOWARD: Yeah, well, Bernadette's a little under the weather and my mom's kind of under my dentist.",False
+"Speaker RACHEL: Okay, let me just get a cup of coffee. 
+Speaker MONICA: Oh Rachel, I know the best coffee house and it's sooo close. 
+Speaker RACHEL: Closer than here? 
+Speaker PHOEBE: Oh, hey, look, I found coffee! Okay, let's skedaddle.",False
+"Speaker ROSS: Yeah. He could row like a viking. 
+Speaker MONICA: Hi. 
+Speaker ROSS: So how'd it go?",False
+"Speaker PHOEBE: Yes. Great, let's begin.  How's the pressure? 
+Speaker MONICA: Nice! Wow Phoebe you are good! 
+Speaker PHOEBE: Stating the obvious, but thank you. And it's not weird is it.",True
+"Speaker HOWARD: Anything? 
+Speaker LEONARD: No. that was the last pudding cup. 
+Speaker HOWARD: No! What about slim jims 
+Speaker LEONARD: Thats what he used to eat his pudding, remember? 
+Speaker RAJ: Right. That was so good! Sweety and meaty at the same time.",False
+"Speaker PHOEBE: I know, I opened it up and it  and there it was just floathing in there, like this tiny little hitchhiker. 
+Speaker CHANDLER: Maybe it's a contest, you know? Like ""Collect all five"".",True
+"Speaker SHELDON: Will you at least stipulate that Star Trek IV: The Voyage Home is inarguably the best? 
+Speaker RAJ: I have three words for you: Wrath of Khan. 
+Speaker HOWARD: Thank God, you're here. 
+Speaker LEONARD: What's the emergency? 
+Speaker HOWARD: I got the Mars Rover stuck in a ditch. 
+Speaker SHELDON: Where? 
+Speaker HOWARD: On a dusty highway just outside Bakersfield. Where do you think? On Mars!",True
+"Speaker SHELDON: Oh, no! I can't! 
+Speaker BERNADETTE: Hurry! 
+We're running out of time! 
+Speaker SHELDON: - Okay. 
+Speaker BERNADETTE: Just do it! 
+Speaker SHELDON: Oh, God!
+One... two...
+three! 
+Speaker HOWARD: Trick or treat, bubbeleh. 
+Speaker SHELDON: What?
+(laughing) 
+Speaker SHELDON: No. You mean this was all a ruse? Oh, how could I be so stu...",False
+"Speaker MONICA: Did that! 
+Speaker PHOEBE: Grasp one of the linen strips by its  'easy grab tab' and pull it off in one quick pain free motion. 
+Speaker MONICA: Okay.  Ow!!!!! Ow-oh-oh! 
+Speaker PHOEBE: Was it not pain-free?",True
+"Speaker CHANDLER: Hey Pheebs! 
+Speaker PHOEBE: Ohh! You made up! 
+Speaker MONICA: Yeah, I couldn't be mad at him for too long. 
+Speaker CHANDLER: Yeah, she couldn't live without the Chan Love.",False
+"Speaker SCOTT: He doesn't need to be sarcastic. I mean, that was sarcasm wasn't it? 
+Speaker MEMBER-GIRL: Really?",True
+"Speaker SCOTT: It was being sarcastic, alright I see I see 
+Speaker SCOTT: I didn't realise the sarcasm was going to be so full on. I ll just stand back and start again 
+Speaker MEMBER-BOY: Oh, we wouldn't bother. 
+Speaker MEMBER-BOY: You got off to a really good start with the group.",True
+"Speaker PERSON: Come on! 
+Speaker JOEY: Weā€™re not peeking?",False
+"Speaker PERSON: That's what I love about science-- there's no one right answer. 
+Speaker LEONARD: So...you and Zack again, huh? 
+Speaker PENNY: Yeah, yeah, me and Zack again. 
+Speaker PERSON: Were we here earlier? 
+Speaker PENNY: Okay, we should, we should go. 
+Speaker PERSON: Ah, not yet. I want to talk science with the science dudes. 
+Speaker HOWARD: Oh, and the science dudes want to talk science with you. What do you want to talk about-- rocks, dinosaurs, our friend the beaver?",True
+"Speaker PERSON: All-you-can-eat Last Supper Buffet. 
+And my personal favorite, Gunning with God. 
+Speaker LEONARD: What's Gunning with God? I'm afraid to ask. 
+Speaker PERSON: Oh, it is a hoot and a half. 
+Speaker PERSON: You write your sins on a clay pigeon, they fire 'em up in the air, and you pulverize them with a 12-gauge shotgun full of our Lord's forgiveness. 
+Speaker SHELDON: Frankly, Mom, I'm encouraged to see how advanced your group has become-- willing to sail out into the ocean without fear of falling off the edge.",True
+"Speaker PERSON: Someone in there? 
+Speaker CHANDLER: No, this is just part of a daredevil game that I play called wait until last moment before I burst and die",True
+"Speaker CHANDLER: Yes. Yes, thanks for letting me use your phone... and for saving my life. 
+Speaker PERSON: Well, goodbye Chandler. I had a great blackout.  See ya. 
+Speaker CHANDLER: Hi, um, I'm account number 7143457. 
+Speaker CHANDLER: And, uh, I don't know if you got any of that, but I would really like a copy of the tape.",False
+"Speaker LEONARD: I honestly don't care. 
+Speaker RAJ: Really? Because every time we've talked about unusual animal genitals, you've always had some pretty strong and controversial opinions. 
+Speaker LEONARD: What do you want from me? I just don't give a rat's ass. 
+Speaker HOWARD: Would that be a giant rat's ass? 
+Speaker SHELDON: For the record, giant rats are possible. 
+Speaker LEONARD: Can we please talk about something else? Maybe something vaguely related to life as we know it on this planet?",True
+"Speaker JOEY: Hey Chandler!, come on in we are knitting pot holders. 
+Speaker CHANDLER: No thanks Josephine!",True
+"Speaker HOWARD: Don't push me, Sheldon.
+I may be small, but I took kung fu when I was 13, and I remember a good deal of it. 
+Speaker SHELDON: Oh, really? 
+Speaker SHELDON: Well, I grew up with an older brother and a very contentious twin sister. 
+Speaker SHELDON: And I believe I could easily best you in any physical confrontation-- be it noogies, swirlies or the classic ""Why are you hitting yourself?"" 
+Speaker RAJ: Ooh, big talk from a man who was once treed by a chicken.",True
+"Speaker MONICA: I am so sorry, please stop freaking out. 
+Speaker CHANDLER: I am not freaking out, why would I be freaking out? A woman named Hildy called and said we will get married, but that happens everyday",True
+"Speaker BERNADETTE: Should I give him another chance? 
+Speaker LEONARD: It's up to you. He didn't call your experiment stupid. 
+Speaker BERNADETTE: Come here, tushy face. 
+Speaker LEONARD: ""Tushy face. "" Raj, you should've seen Leonard's experiment. 
+Speaker BERNADETTE: Raj, you should've seen Leonard's experiment. The interference pattern was so cool when the electron beam was on.",False
+"Speaker MONICA: Well then we still have a problem. 
+Speaker CHANDLER: Yeah! 
+Speaker PHOEBE: With what? 
+Speaker MONICA: Well, we're trying to find someone to perform our wedding and they're all either boring or annoying or y'know, can't stop staring at the ladies.",False
+"Speaker JOEY: Wow! This girl is good. 
+Speaker PHOEBE: Oh-ho yeah! A song with rhyming words. Oo, I never thought of that before. 
+Speaker CHANDLER: I like her. 
+Speaker PHOEBE: Why? Because she can sing and play guitar and do both at the same time?",True
+"Speaker HOWARD: Hey, have you told your parents you're dating this short glass of skim milk here? 
+Speaker PERSON: Uh... that's different.
+First of all, we're not engaged; and second, Indian parents are very protective of their children. 
+Speaker HOWARD: Right, right, whereas Jewish mothers take a casual, la-di-da approach to their sons. 
+Speaker SHELDON: I gargled with tequila and may have swallowed a teeny bit.",False
+"Speaker RACHEL: You know? Forget it! 
+Speaker JOEY: No-no-no-no, no! Who, who were you talking about? 
+Speaker RACHEL: No, I-I-I-I don't, I actually don't know 
+Speaker JOEY: Ok!",False
+"Speaker JOEY: Well the tough thing is she really wants to have sex with me. 
+Speaker CHANDLER: Crazy bitch!",True
+"Speaker ROSS: No-no-no. I don't have a son named Jordie. We all agreed, my son's name is Jamie. 
+Speaker PERSON: Well, Jamie was the name of Susan's first girlfriend, so we went back to Jordie. 
+Speaker ROSS: What? Whoa, whoa whoa whoa, what do you mean, 
+Speaker PERSON: Ow, ow, ow, ow, leg cramp, leg cramp, leg cramp.",False
+"Speaker CHANDLER: Damn, tail pipe's not hot enough to light this. 
+Speaker JOEY: Relax ok? I can get this open, anybody got a coat hangar? 
+Speaker CHANDLER: Oh I do. Oh no, wait a minute, I took it out of my shirt when I put it on this morning.",True
+"Speaker DOROTHY: We thought you might like to join us for dinner? 
+Speaker SOPHIA: I get the feeling Dorothy that you might be a little mad at me. Why is that? 
+Speaker DOROTHY: How about stopping by new years eve with three naked women, throwing up in the pool, passing out in the punch bowl, and relieving yourself in the linen closet?",False
+"Speaker ROSE: Shall I set this down someplace? 
+Speaker DOROTHY: No Rose, go to the corner and open a stand",True
+"Speaker CHANDLER: Honey, you remember my boss Doug right? 
+Speaker MONICA: Yes, hi. 
+Speaker PERSON: Hi. So good news, the divorce is final. I signed the papers this A.M. 
+Speaker CHANDLER: I didn't know you and Carol were getting divorced, I'm sorry.",False
+"Speaker RAJ: This man became my whole world. 
+Speaker PERSON: Yeah, nice speech, Francine. 
+Speaker RAJ: I'm not done, but thank you. 
+Speaker RAJ: I think back.... 
+Speaker RAJ: ...to all the good times we had, like, uh, when we went camping and spent that night telling each other all our secrets. I told him I'm addicted to pedicures and he told me he lost his virginity to his cousin.",False
+"Speaker SHELDON: What do you think? 
+Speaker AMY: Can I speak to you for a second? 
+Speaker SHELDON: I'll be right back. 
+Speaker SHELDON: Feel free to play with yourself. 
+Speaker AMY: I don't care for your friend, he's being rude to me. 
+Speaker AMY: You need to ask him to leave. 
+Speaker SHELDON: Amy, I can't just ask Wil Wheaton to leave. He's a minor celebrity. Once you explain who he is, many people recognize him.",False
+"Speaker HOWARD: Do you really think you should be drinking right now? 
+Speaker RAJ: How else am I supposed to talk to the Human Resources lady? 
+Speaker HOWARD: I don't know. Seek professional help? 
+Speaker RAJ: I did. The guy at the liquor store said this stuff tastes great in coffee.",False
+"Speaker ROSS: Hey who is this Casey? 
+Speaker PHOEBE: Oh some guy she met in the movies 
+Speaker ROSS: Oh really? What does he want with her? 
+Speaker CHANDLER: I guess he wants to do a little dance, you know, make a little love. Well pretty much get down to that.",True
+"Speaker LEONARD: It's 2:00 a.m. What are you doing up? 
+Speaker SHELDON: Nobel Prize acceptance ceremony streaming live from Stockholm. 
+Speaker LEONARD: Sure. You want to see what all the scientists are wearing this year.",True
+"Speaker ROSS: Who? 
+Speaker CHANDLER: Dee, the sarcastic sister from What's Happening!! 
+Speaker RACHEL: Guys, guess what guess what guess what. 
+Speaker CHANDLER: Uh, okay. The fifth dentist caved and not they're all recommending Trident?",True
+"Speaker AMY: Your flaring nostrils indicate otherwise. 
+Speaker SHELDON: Cluck-cluck-cluck. 
+Speaker AMY: Sheldon, look at me.
+I think it's time to face the fact that Leonard is the nucleus of your social group.
+Where he goes, the group goes. 
+Speaker SHELDON: Leonard the nucleus? That makes no sense. 
+Speaker SHELDON: I'm the whimsical elf that everyone looks to for a good time. 
+Speaker AMY: I'm not saying that you're not fun. You're the most fun person I know.",False
+"Speaker CHANDLER: Could you want her more? 
+Speaker ROSS: Who? 
+Speaker CHANDLER: Dee. The sarcastic sister from What's Happening.",True
+"Speaker CHANDLER: I will have one. Okay, I'm not gonna have one. 
+Speaker PHOEBE: No, no, it's just my tooth. 
+Speaker CHANDLER: All right I'll have one.",True
+"Speaker SCOTT: No seriouslty. 
+Speaker MODERATOR: Sarcastic? Us? Nooo.",True
+"Speaker DOROTHY: Morning everybody, Rose honey I hope you don't mind, I borrowed your golf club, I have a date to play this morning. 
+Speaker BLANCHE: With a man? 
+Speaker DOROTHY: No Blanche, with a venus fly trap",True
+"Speaker RACHEL: Hi! What are you doing here? 
+Speaker ROSS: Ah y'know, this building is on my paper route so I... 
+Speaker RACHEL: Oh.",False
+"Speaker PENNY: Okay, sit down. Listen, Emily, what happened between me and Raj was a long time ago. 
+Speaker RAJ: It was, and I may have made it seem like a bigger deal than I should have. 
+Speaker PENNY: Yeah, and Leonard and I are engaged now, and I'm just hoping we can put this whole thing behind us. 
+Speaker PERSON: Mm. I'd like that, too. 
+Speaker PERSON: Yeah, I thought I'd be okay with it, but then I saw how pretty you are. 
+Speaker PENNY: Oh, that's so sweet.
+I mean, look at you-- you are gorgeous. 
+Speaker RAJ: It's true-- you're both gorgeous. Kind of says something about the man who could bed you both.",False
+"Speaker PHOEBE: No, yeah! The groom cannot see the bride! 
+Speaker RACHEL: I'm not gonna marry Chandler! 
+Speaker PHOEBE: Not after this! 
+Speaker RACHEL: Okay, you guys, just relax.  I doooo.",False
+"Speaker JOEY: When that guy was robbing us and I was locked in the entertainment unit for like six hours, do you know what I was doing there in all that time? I was thinking about how I let you down. Yeah. But if I had known what kind of friend you would turn out to be, I wouldn't have worried about it so much. See you around! 
+Speaker CHANDLER: Wait! Just wait one second. There has to be something that I can do, something. If we still had that entertainment unit, I would get in there for six hours and think about  how I let you down. 
+Speaker JOEY: We got a box.",False
+"Speaker SHELDON: Ugh! It's like walking into the Amazon.
+And not the good Amazon with one-day shipping.
+The awful one with birds and snakes. 
+Speaker AMY: You hate the sound of all those keys on his key chain. 
+Speaker SHELDON: Four keys!
+Who does he think he is, a warden? 
+Speaker AMY: See? Maybe you'll love living alone. 
+Speaker SHELDON: I don't know. Perhaps. 
+Speaker AMY: And if it turns out you don't... - you and I could live together. - You and... Oh, sure.",True
+"Speaker ROSE: Isn't she happy here? 
+Speaker DOROTHY: I think she will be happy with Gloria 
+Speaker ROSE: What about us? Whose gonna keep after us. Make us linguini and tell us story about Cicily. 
+Speaker DOROTHY: I don't know Rose, maybe Marry Poppins has an Italian cousin.",True
+"Speaker SHELDON: Howard and Bernadette, Raj and his girlfriend, Penny and Chardonnay, Penny and you. 
+Speaker LEONARD: There isn't any ranking. 
+Speaker LEONARD: And if there were, we wouldn't be at the bottom of it. 
+Speaker PENNY: Yeah, and actually, I drink Sauvignon Blanc. 
+Speaker LEONARD: That's the part you have a problem with? 
+Speaker PENNY: Relax. 
+Speaker AMY: There they go, fighting again. You'd never hear her talk that way to Sauvignon Blanc.",True
+"Speaker MONICA: Umm, listen there's something I think you should know. 
+Speaker CHANDLER: Oh, is this about you-you dating the nurse? Yeah, Joey already told me, and I am so-so fine. 
+Speaker CHANDLER: I mean, you and I we're just, y'know, we're nothing, we're goofin' around.",True
+"Speaker JOEY: Hey. What, what are you doing here? 
+Speaker PHOEBE: Well, I-I thought a lot about what you said, and um, I realilized duh, all right maybe I was a little judgmental. Yeah, oh, but oh... 
+Speaker JOEY: Look now, Phoebe remember, hey, their just fulfilling their Christmas....",False
+"Speaker ROSS: One, two, three, four! You know the song! Sing along! So? 
+Speaker MONICA: No!",False
+"Speaker CHANDLER: Have you seen Joey? 
+Speaker MONICA: What's the matter? 
+Speaker CHANDLER: Oh, just this!  Y'know what it's my fault really, because the couch is usually where we 
+Speaker JOEY: Hey, does somebody wanna hand me one of those tiles.",False
+"Speaker PERSON: Uh, do you work with Dr. Hofstadter? 
+Speaker PENNY: In a way. 
+Speaker PENNY: We've kind of been involved in a five-year experiment. 
+Speaker PERSON: Oh. Well, you're lucky. He seems very talented.
+And I'm sure a lot of people want to work with him. 
+Speaker PENNY: Well, a lot of people can't. 
+Speaker PENNY: Uh, hey. 
+Speaker LEONARD: Where are we going? 
+Speaker PENNY: My limbic system wants to take your pants off.",False
+"Speaker AMY: ""And Absolon hath kist hir nether ye, ""and Nicholas is scalded in the towte.
+This tale is doon, and God save al the rowte."" 
+Speaker PENNY: What the hell was that? 
+Speaker AMY: Bernadette dared me to tell a dirty story. ""The Miller's Tale"" by Chaucer is the dirtiest story I know. It would have been hidden in sock drawers if people in the 14th century had worn socks.",False
+"Speaker MONICA: Uh, belt's to tight, gotta change the belt. Did I turn the fish? No, cause I made lasagne. 
+Speaker MONICA: Am I out of control?",False
+"Speaker CHANDLER: Hey, it's me. I know you can't stand to be in the same room as me, so I just thought I'd try and apologize over the phone. 
+Speaker JOEY: Hello. 
+Speaker CHANDLER: Look I never should have kissed your girlfriend, but I'm",False
+"Speaker SHELDON: Yeah. Tell me those aren't the words of a man with a spider eating its way through his brain. 
+Speaker SHELDON: Amy, you're a neuroscientist.
+Crack his skull open, spray some Raid in there. 
+Speaker BERNADETTE: I love that you take pride in your looks, even when I have to pee in the morning, and you're in there spending an hour on your hair. 
+Speaker HOWARD: I love that you're too good to pee in the kitchen sink.",True
